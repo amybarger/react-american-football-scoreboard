@@ -1,6 +1,14 @@
 :root {
   --black: #0d0d0d;
   --red: #ff2d2b;
+  background-color: darkslateblue;}
+
+h1 {
+  color: white;
+  font-family: monospace;
+  font-size: 8rem;
+  text-align: center;
+  margin-bottom: -10%;
 }
 
 .scoreboard {

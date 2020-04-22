@@ -10,6 +10,7 @@ function App() {
 
   return (
     <div className="container">
+       <h1>Let's Play Ball!</h1>
       <section className="scoreboard">
         <div className="topRow">
           <div className="timer">00:03</div>
