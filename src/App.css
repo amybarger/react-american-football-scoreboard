@@ -4,7 +4,7 @@
 }
 
 .scoreboard {
-  width: 58%;
+  width: 75%;
   margin: 10rem auto;
   background-color: #0b5402;
   color: white;
@@ -24,13 +24,13 @@
 .home,
 .away {
   height: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
+  /* display: flex;
+  flex-direction: column; */
+  /* justify-content: space-around; */
   place-items: center;
   border: 3px solid white;
   border-radius: 0.5rem;
-  width: 15rem;
+  width: 100%;
 }
 
 .home {
