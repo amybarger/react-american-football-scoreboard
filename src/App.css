@@ -1,10 +1,18 @@
 :root {
   --black: #0d0d0d;
   --red: #ff2d2b;
+  background-color: darkslateblue;}
+
+h1 {
+  color: white;
+  font-family: monospace;
+  font-size: 8rem;
+  text-align: center;
+  margin-bottom: -10%;
 }
 
 .scoreboard {
-  width: 58%;
+  width: 75%;
   margin: 10rem auto;
   background-color: #0b5402;
   color: white;
@@ -24,13 +32,13 @@
 .home,
 .away {
   height: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
+  /* display: flex;
+  flex-direction: column; */
+  /* justify-content: space-around; */
   place-items: center;
   border: 3px solid white;
   border-radius: 0.5rem;
-  width: 15rem;
+  width: 100%;
 }
 
 .home {
